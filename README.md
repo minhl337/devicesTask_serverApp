@@ -1,13 +1,3 @@
-Installation:
-------------
+Run "npm start" from inside the root folder, server will start on port 5000 locally.
 
-```bash
-$ npm install
-```
-
-Run
-------------
-
-```bash
-$ npm start
-```
+cd into front-end folder and "npm i && npm start" to run UI. Access UI at http://localhost:3000/
